@@ -41,7 +41,6 @@ function LeftSidebar() {
                         </div>
                     </SignOutButton>
                 </SignedIn>
-
             </div>
         </section>
     )
